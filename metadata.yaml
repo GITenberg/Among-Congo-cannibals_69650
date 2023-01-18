@@ -1,0 +1,35 @@
+_repo: Among-Congo-cannibals_69650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weeks, John H.
+    alias: Weeks, John Henry
+    birthdate: 1860
+    deathdate: 1924
+    gutenberg_agent_id: '55320'
+    url: http://www.gutenberg.org/2009/agents/55320
+description: ''
+gutenberg_issued: '2022-12-28'
+identifiers:
+  gutenberg: '69650'
+  lccn: '13035192'
+language: en
+pgterms:marc904: https://archive.org/details/amongcongocannib00week_0
+pgterms:marc905: 20210831121829weeks
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: Peter Becker, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: J.B. Lippincott,1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Congo (Democratic Republic)'
+- !lcsh 'Folklore -- Congo (Democratic Republic)'
+- !lcsh 'Ethnology -- Congo (Democratic Republic)'
+- !lcc 'DT'
+- GITenberg
+title: Among Congo cannibals
+url: http://www.gutenberg.org/ebooks/69650
