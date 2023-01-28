@@ -1,5 +1,8 @@
 _repo: Among-Congo-cannibals_69650
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69650-h/images/cover.jpg
 creator:
   author:
     agent_name: Weeks, John H.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55320'
     url: http://www.gutenberg.org/2009/agents/55320
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69650#Among-Congo-cannibals
 gutenberg_issued: '2022-12-28'
 identifiers:
   gutenberg: '69650'
